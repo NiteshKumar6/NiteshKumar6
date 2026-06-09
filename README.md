@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" alt="Nitesh Kumar GitHub Banner" width="100%" />
+  <img src="data-analyst-banner.svg" alt="Nitesh Kumar Data Analyst Portfolio Banner" width="100%" />
 </div>
 
 <h1 align="center">Nitesh Kumar</h1>
