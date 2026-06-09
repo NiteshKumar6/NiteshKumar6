@@ -75,12 +75,11 @@
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| [Business Analytics Portfolio](https://github.com/NiteshKumar6/business-analytics-portfolio) | Central analytics portfolio connecting SQL, Python, Excel, Power BI, statistics, and business case studies | SQL, Python, Excel, Power BI | ✅ Active |
-| [SQL Business Analysis Case Study](https://github.com/NiteshKumar6/sql-business-analysis-case-study) | Revenue, customer, and product performance analysis using business-focused SQL queries | SQL, CTEs, joins, window functions | ✅ Active |
-| [Power BI Sales Dashboard](https://github.com/NiteshKumar6/power-bi-sales-dashboard) | Executive dashboard for sales trends, KPIs, regional performance, and product insights | Power BI, DAX | ✅ Active |
-| [Python Customer Churn Analysis](https://github.com/NiteshKumar6/python-customer-churn-analysis) | Churn analysis using EDA, visualization, feature patterns, and baseline modeling | Python, pandas, scikit-learn | ✅ Active |
-| [Excel Financial Analysis Dashboard](https://github.com/NiteshKumar6/excel-financial-analysis-dashboard) | Financial dashboard for revenue, cost, profit, and monthly trend analysis | Excel, Power Query, pivot tables | ✅ Active |
-| [A/B Testing Statistics Analysis](https://github.com/NiteshKumar6/ab-testing-statistics-analysis) | Statistical analysis to test whether a campaign improved conversion | Python, statistics | ✅ Active |
+| [Sales Performance Dashboard Analysis](https://github.com/NiteshKumar6/sales-performance-dashboard-analysis) | Retail sales analysis covering revenue trends, top products, regions, customer segments, and dashboard-ready reporting | SQL, Python, Excel, Power BI | ✅ Active |
+| [HR Employee Attrition Analysis](https://github.com/NiteshKumar6/hr-employee-attrition-analysis) | Employee attrition analysis focused on turnover drivers, department patterns, overtime, satisfaction, and retention insights | Python, pandas, Power BI | ✅ Active |
+| [E-commerce Customer Analysis](https://github.com/NiteshKumar6/ecommerce-customer-analysis) | Customer behavior analysis covering repeat purchase rate, high-value customers, category revenue, and segmentation | SQL, Python, Power BI | ✅ Active |
+| [COVID-19 Data Analysis and Visualization](https://github.com/NiteshKumar6/covid19-data-analysis-and-visualization) | COVID-19 trend analysis with regional comparisons, recovery rate, mortality rate, active cases, and dashboard visuals | Python, pandas, visualization | ✅ Active |
+| [Business Analytics Portfolio](https://github.com/NiteshKumar6/business-analytics-portfolio) | Central analytics portfolio hub for SQL, Python, Excel, Power BI, statistics, and business case studies | SQL, Python, Excel, Power BI | ✅ Active |
 
 ---
 
